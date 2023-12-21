@@ -1,7 +1,7 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "react": "React.js Cheat Sheet",
+  "openai": "OpenAI",
+  "react": "React.js",
   "about": {
     "title": "About",
     "type": "page"
