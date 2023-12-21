@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: "https://github.com/craftled/cheatsheets/tree/main",
   footer: {
-    text: "2023-2024 © Craftled Cheat Sheets. Technical cheat sheets for developers. Standing on the shoulders of giants.",
+    text: "2023-2024 © Craftled Cheat Sheets. Technical cheat sheets for creators. Standing on the shoulders of giants.",
   },
 };
 
