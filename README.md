@@ -1,4 +1,4 @@
-# Nextra Docs Template 
+# Tech Cheat Sheets for Creators
 
 This is an open-source project built with [Nextra](https://nextra.site).
 
